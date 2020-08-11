@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sehat Bersama</string>
+    <string name="move_activity">INFO PENTING</string>
+    <string name="move_with_data">Cuci Tangan Yang Benar</string>
+    <string name="move_with_object">Cara Pakai Masker Yang Benar</string>
+    <string name="move_with_subject">Pola Hidup Sehat Menurut Saya</string>
+    <string name="this_is_moveactivity">MARI JAGA DIRI UNTUK HIDUP YANG LEBIH SEHAT</string>
+</resources>
